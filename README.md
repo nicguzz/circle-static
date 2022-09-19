@@ -1,4 +1,4 @@
-#Midterm Project
+**Midterm Project**
 
 - HTML structure done
 - Some styling was made
