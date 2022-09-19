@@ -3,3 +3,8 @@
 - HTML structure done
 - Some styling was made
 - Tried to apply responsiveness on class Hero, with success
+
+_Challenges:_
+
+- Navbar - Responsiveness
+- Responsiveness
