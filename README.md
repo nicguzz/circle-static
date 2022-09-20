@@ -13,4 +13,20 @@ _Challenges:_
 
 **Sep 20**
 
-Expected to finish all styling of the page and start responsiveness in all platform.
+**Expectations:** Expected to finish all styling of the page and start responsiveness in all platform.
+
+**Done**
+
+- Finalized CSS in Landing Page('Contact Us stil pending')
+- Finalized Responsive for Mobile( max width 768px)
+
+**Challenges**
+
+- Navbar - I still had difficulty on Navbar, burger menu still pending to be implemented.
+- Sizing - Difficulties on sizing the elements
+
+**Sep 21**
+
+**Expectations:** Expecting to finish CSS in 'Contact Us' page & will try to implement Fetch API on Projects.
+
+**Thank you!**
