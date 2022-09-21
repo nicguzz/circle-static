@@ -29,4 +29,18 @@ _Challenges:_
 
 **Expectations:** Expecting to finish CSS in 'Contact Us' page & will try to implement Fetch API on Projects.
 
+**Done**
+
+- Navbar - Completed and responsive in all pages.
+- Fetch API, completed in "Projects" and also in "Contact Us"
+
+**Challenges**
+
+- Grid on "Contact Us", I was having issues on fixing and aligning elements and had to ask help.
+- CSS attributes - still having issues on knowing the best attribute to an element.
+
+## Sep 22
+
+**Expectations:** Expecting to finish some unfixed small details in landing page and "Contact Us", trying to understand Fetch API POST provided by Diego.
+
 **Thank you!**
