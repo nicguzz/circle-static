@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
 :root {
   --primary: #072ac8;
   --primaryLight: #f2f4fc;
@@ -22,13 +22,13 @@
 
 * {
   padding: 0 1px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   max-width: 1200px;
   scroll-behavior: smooth;
 }
 
 body {
-  font-family: Roboto, sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-size: 14px;
   line-height: 20px;
   background-color: #f2f4fc;
@@ -110,7 +110,7 @@ body {
   text-align: left;
   margin-left: auto;
   margin-right: auto;
-  font-family: Roboto, sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: #6b708d;
   font-size: 17px;
   font-weight: 500;
