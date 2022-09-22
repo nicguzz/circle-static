@@ -36,7 +36,7 @@ body {
   display: block;
 }
 
-/* NAVBAR */
+/* --------------------------NAVBAR */
 .nav {
   height: 50px;
   width: 100%;
@@ -133,7 +133,7 @@ body {
   border-style: none;
 }
 
-/* Section 1 - Hero Section */
+/* ---------------------- Hero Section */
 #hero {
   display: flex;
   align-items: center;
@@ -211,6 +211,8 @@ p {
   right: -20%;
 }
 
+/* --------------------------IT BRANDS */
+
 .it-brands {
   display: flex;
   margin-top: 169px;
@@ -229,6 +231,7 @@ p {
   grid-template-rows: auto;
 }
 
+/* ----------------------FETCH API */
 .fetch-api {
   margin-top: 200px;
 }
@@ -321,7 +324,7 @@ p {
   line-height: 110%;
 }
 
-/* TESTIMONIAL */
+/* ---------------------TESTIMONIAL */
 
 .testimonial {
   position: relative;
@@ -396,8 +399,8 @@ p {
 .emoji-top-left {
   background-image: url("./project-assets/testimonial-section/memoji-1.png");
   position: absolute;
-  left: 0%;
   top: 0%;
+  right: 68%;
   margin-top: 3%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -408,8 +411,8 @@ p {
 .emoji-bottom-right {
   background-image: url("./project-assets/testimonial-section/memoji-2.png");
   position: absolute;
-  left: 760px;
-  top: 60%;
+  top: 64%;
+  left: 83%;
   margin-top: 3%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -431,8 +434,8 @@ p {
 .emoji-top-right {
   background-image: url("./project-assets/testimonial-section/memoji-4.png");
   position: absolute;
-  left: 836px;
   top: 0%;
+  left: 85%;
   margin-top: 3%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -449,7 +452,7 @@ p {
   background-repeat: no-repeat;
 }
 
-/* SERVICES */
+/* -------------------------SERVICES */
 
 .services {
   margin-top: 200px;
@@ -560,7 +563,7 @@ p {
   text-decoration: none;
 }
 
-/* SUBSCRIBE */
+/* -------------------------SUBSCRIBE */
 
 .subscribe {
   width: 1246px;
@@ -649,7 +652,7 @@ p {
   margin-bottom: 9px;
 }
 
-/* FOOTER */
+/* ------------------------FOOTER */
 .footer {
   margin-top: 200px;
   padding-bottom: 100px;
@@ -697,6 +700,7 @@ p {
   text-decoration: none;
 }
 
+/* --------------------------MEDIA mobile */
 @media (max-width: 768px) {
   .nav > .nav-btn {
     display: inline-block;
@@ -821,16 +825,21 @@ p {
 
   .testimonial {
     position: relative;
+    left: -17px;
     height: 455px;
-    width: 100vw;
+    width: 818px;
     margin-top: 60px;
-    margin-right: auto;
     margin-left: auto;
     background-color: #292e47;
     background-image: url("/project-assets/testimonial-section/orbit.png");
     background-position: 0px 0px;
     background-size: contain;
     color: #292e47;
+
+    padding-left: 0px;
+    margin-right: 0px;
+    right: 0px;
+    padding-right: 0px;
   }
 
   .testimonial-heading {
@@ -884,7 +893,7 @@ p {
   /* SUBSCRIBE */
 
   .subscribe {
-    width: 100%;
+    width: 800px;
   }
   .subscribe-email-form {
     display: flex;

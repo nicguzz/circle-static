@@ -1,5 +1,3 @@
-console.log("Hello world");
-
 // Calling an external API
 // function getHere() {
 //   fetch("https://jsonplaceholder.typicode.com/users")
