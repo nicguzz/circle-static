@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
+
 :root {
   --primary: #072ac8;
   --primaryLight: #f2f4fc;
@@ -21,7 +22,7 @@
 }
 
 * {
-  padding: 0 1px;
+  /* padding: 0 1px; */
   font-family: "Ubuntu", sans-serif;
   max-width: 1200px;
   scroll-behavior: smooth;
@@ -34,12 +35,13 @@ body {
   background-color: #f2f4fc;
   width: 100%;
   display: block;
+  margin: 0;
+  padding: 0;
 }
 
 /* --------------------------NAVBAR */
 .nav {
   height: 50px;
-  width: 100%;
   background-color: #f2f4fc;
   position: relative;
   display: flex;
@@ -239,6 +241,7 @@ p {
 .fetch-api-container {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .fetch-api-title {
@@ -258,6 +261,7 @@ p {
   grid-row-gap: 16px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto auto;
+  margin-left: 38px;
 }
 
 .box-text-content {
@@ -272,7 +276,7 @@ p {
   display: -ms-flexbox;
   display: flex;
   max-height: 548px;
-  max-width: 340px;
+  width: 100%;
   flex-direction: column;
   justify-content: flex-start;
   flex: 1;
@@ -813,33 +817,29 @@ p {
 
   .box-text-content {
     background-color: white;
-    width: 700px;
   }
   .box-list-item {
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
   .box-image {
-    width: 700px;
+  }
+
+  .box-card {
+    width: 60%;
   }
 
   .testimonial {
     position: relative;
-    left: -17px;
     height: 455px;
-    width: 818px;
+    width: 100vw;
     margin-top: 60px;
-    margin-left: auto;
     background-color: #292e47;
     background-image: url("/project-assets/testimonial-section/orbit.png");
     background-position: 0px 0px;
     background-size: contain;
     color: #292e47;
-
-    padding-left: 0px;
-    margin-right: 0px;
-    right: 0px;
-    padding-right: 0px;
   }
 
   .testimonial-heading {
@@ -893,7 +893,7 @@ p {
   /* SUBSCRIBE */
 
   .subscribe {
-    width: 800px;
+    width: 100vw;
   }
   .subscribe-email-form {
     display: flex;
