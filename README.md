@@ -43,4 +43,6 @@ _Challenges:_
 
 **Expectations:** Expecting to finish some unfixed small details in landing page and "Contact Us", trying to understand Fetch API POST provided by Diego.
 
+**Done** Finished small details in both pages and project is finished and deployed to Netlify.
+
 **Thank you!**
