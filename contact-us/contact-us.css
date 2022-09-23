@@ -186,19 +186,15 @@ input {
 
 #contact-us-fullname {
   grid-row-start: span 1;
-  -ms-grid-row-span: 1;
   grid-row-end: span 1;
   grid-column-start: span 6;
-  -ms-grid-column-span: 6;
   grid-column-end: span 6;
 }
 
 #contact-us-email {
   grid-row-start: span 1;
-  -ms-grid-row-span: 1;
   grid-row-end: span 1;
   grid-column-start: span 3;
-  -ms-grid-column-span: 3;
   grid-column-end: span 3;
   width: 90%;
 }
@@ -207,7 +203,6 @@ input {
   grid-row-start: span 1;
   grid-row-end: span 1;
   grid-column-start: span 3;
-  -ms-grid-column-span: 3;
   grid-column-end: span 3;
 }
 
