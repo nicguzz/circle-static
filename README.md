@@ -1,4 +1,4 @@
-# **Midterm Project**
+# **Circle Static **
 
 DEMO: https://iridescent-gumption-8b550f.netlify.app
 
