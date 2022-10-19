@@ -1,5 +1,7 @@
 # Circle Static
 
+## A clone of a static website with pure CSS & HTML5
+
 DEMO: https://iridescent-gumption-8b550f.netlify.app
 
 
