@@ -1,5 +1,12 @@
 # **Midterm Project**
 
+DEMO: https://iridescent-gumption-8b550f.netlify.app
+
+
+<img src="https://res.cloudinary.com/dbmzbapuj/image/upload/v1666179146/Screenshot_2022-10-19_at_13.32.16_xm0jjw.png">
+
+ 
+
 ## Sep 19
 
 - HTML structure done
